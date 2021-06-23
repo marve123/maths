@@ -1,0 +1,29 @@
+a.nav-link {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.video iframe {
+    width: 100%;
+    height: 350px;
+}
+
+.side-navlink {
+    color: black;
+}
+
+.card-img-top iframe.card-img {
+    width: 100%;
+    height: 400px;
+}
+
+button.accordion-button h4 strong {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+div.img img {
+    width: 100%;
+    height: 299px;
+}
